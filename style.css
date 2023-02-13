@@ -1,0 +1,33 @@
+#h1tag {
+width :100%;
+height :30%;
+font-size: xx-large;
+}
+
+#h1tag button {
+float: right;
+}
+
+#img1 {
+width: 100%;
+height: 30%;
+}
+
+h5 {
+background-color: rgb(222, 187, 255);
+bottom: 0;
+}
+
+.instruction-img {
+display:inline-block;
+width:40%;
+}
+
+video {
+background : url('game_console.png');
+background-size: cover;
+background-position: center;
+border-radius: 50px;
+}
+
+
